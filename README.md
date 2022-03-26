@@ -6,3 +6,6 @@ REST API Service for [Dictionary App](https://github.com/dchproject/Dictionary-A
 - GCP Cloud Run
 - Swagger
 - Docker
+
+## License
+MyDictionary-App-REST-API-JAVA is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
